@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 .opencode/
+# Local distribution archives (built via flutter build windows + Compress-Archive)
+jezail_console-*-windows-x64.zip
